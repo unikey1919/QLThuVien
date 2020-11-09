@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace QuanLiThuVien
 {
+    /// <summary>
+    /// HellO
+    /// </summary>
     public class GROUP
     {
         MY_DB db = new MY_DB();
